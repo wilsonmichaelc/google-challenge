@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# The goal of this challenge is to find the first instance of a list of search terms (forward or reverse) in a document.
+
 # Import Counter and dictionary
 from collections import Counter,defaultdict
 
